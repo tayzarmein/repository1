@@ -12,8 +12,11 @@
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">For Support Mail us : </p>
 <<<<<<< HEAD
+<<<<<<< HEAD
               <h3>3rdchange</h3>
               <h4>4thchange</h4>
+=======
+>>>>>>> parent of a591e3d... 3rd change
 =======
 >>>>>>> parent of a591e3d... 3rd change
               <a href="mailto:info@example.com">info@phtpoint.com</a> </div>
